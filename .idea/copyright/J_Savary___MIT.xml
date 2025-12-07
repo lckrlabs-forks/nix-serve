@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \\(c\\) (\\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year Jesse Savary&#10;&#10;This file is part of the &amp;#36;project.name project.&#10;&#10;Licensed under the MIT License.&#10;See the LICENSE file in the project root for details.&#10;&#10;File: &amp;#36;file.fileName&#10;Created: &amp;#36;today.format(&quot;yyyy-MM-dd HH:mm&quot;)&#10;Last Updated: &amp;#36;file.lastModified.format(&quot;yyyy-MM-dd HH:mm&quot;)" />
+    <option name="myName" value="J Savary - MIT" />
+  </copyright>
+</component>
